@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GOL\\مکتب شریف\\week4\\Mahboobe_ziaeeHW_W4_01\\HW_W4_01\\HW_W4_01.csproj",
+      "projectUniqueName": "D:\\GOL\\MaktabSharif\\Mahboobe_ziaeeHW_W4_01\\HW_W4_01\\HW_W4_01.csproj",
       "projectName": "HW_W4_01",
-      "projectPath": "D:\\GOL\\مکتب شریف\\week4\\Mahboobe_ziaeeHW_W4_01\\HW_W4_01\\HW_W4_01.csproj",
+      "projectPath": "D:\\GOL\\MaktabSharif\\Mahboobe_ziaeeHW_W4_01\\HW_W4_01\\HW_W4_01.csproj",
       "packagesPath": "C:\\Users\\Elm-Novin\\.nuget\\packages\\",
-      "outputPath": "D:\\GOL\\مکتب شریف\\week4\\Mahboobe_ziaeeHW_W4_01\\HW_W4_01\\obj\\",
+      "outputPath": "D:\\GOL\\MaktabSharif\\Mahboobe_ziaeeHW_W4_01\\HW_W4_01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Elm-Novin\\AppData\\Roaming\\NuGet\\NuGet.Config",
